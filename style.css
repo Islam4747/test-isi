@@ -1,0 +1,398 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.momentum {
+  background: linear-gradient(135deg, #fc0a7e, #cf0063, #450e4b);
+  height: 648px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  width: 950px;
+  align-items: center;
+}
+
+.nav-item {
+  margin-left: 30px;
+  color: white;
+  text-decoration: none;
+}
+
+.momentum-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 660px;
+  justify-content: space-around;
+  justify-items: auto;
+  position: relative;
+}
+
+.momentum-section h1 {
+  font-size: 60px;
+  color: white;
+}
+
+.momentum-section p {
+  font-size: 23px;
+  color: white;
+}
+
+.momentum-section button {
+  background: #fc0a7e;
+  border-radius: 3px;
+  width: 100px;
+  height: 50px;
+  color: white;
+  border: #fc0a7e;
+}
+
+.momentum-section .arrow {
+  position: absolute;
+  top: 560px;
+  bottom: 0px;
+  right: 0px;
+  left: 255px;
+}
+
+.desktop-info {
+  background: #1b1b1b;
+  border-radius: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 100px;
+}
+
+.smallText {
+  color: grey;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.bigText {
+  color: white;
+  font-size: 30px;
+  max-width: 450px;
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+.lili {
+  width: 400px;
+}
+
+.re {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding-top: 100px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.exText {
+  color: grey;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.miText {
+  color: black;
+  font-size: 30px;
+  margin-bottom: 20px;
+  max-width: 200px;
+}
+
+.hiTex {
+  color: grey;
+  font-size: 20px;
+  max-width: 400px;
+  margin-bottom: 20px;
+}
+
+.mi {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 100px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.appl {
+  width: 400px;
+}
+
+.miniText1 {
+  color: grey;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.miniText2 {
+  color: black;
+  font-size: 40px;
+  max-width: 450px;
+}
+
+.miniText3 {
+  color: grey;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.pi {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 100px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.gool {
+  width: 400px;
+  margin: 0 auto;
+}
+
+.pi1 {
+  color: grey;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.pi2 {
+  color: black;
+  font-size: 50px;
+  max-width: 450px;
+}
+
+.pi3 {
+  color: grey;
+  font-size: 20px;
+  margin-bottom: 20px;
+  max-width: 450px;
+}
+
+.nani {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 100px;
+  max-width: 1100vw;
+}
+
+.nami {
+  width: 400px;
+}
+
+.biar1 {
+  color: black;
+  font-size: 20px;
+  max-width: 450px;
+}
+
+.biar2 {
+  color: grey;
+  font-size: 20px;
+  /* margin-bottom: 20px; */
+}
+.na {
+  margin-top: 70px;
+}
+.joni {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 100px;
+  max-width: 1000px;
+}
+
+.juny {
+  width: 400px;
+}
+
+.jo1 {
+  color: black;
+  font-size: 20px;
+  max-width: 450px;
+}
+
+.jo2 {
+  color: grey;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.joni {
+  display: flex;
+  flex-direction: column;
+}
+
+.kiki {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 100px;
+  max-width: 1000px;
+}
+
+.kika {
+  width: 400px;
+}
+
+.ki1 {
+  color: black;
+  font-size: 20px;
+  max-width: 450px;
+}
+
+.ki2 {
+  color: grey;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+.kiki {
+  display: flex;
+  flex-direction: column;
+}
+
+.kaka {
+  background: white;
+  border-radius: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 100px;
+}
+
+.bobi {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 100px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.boda {
+  width: 400px;
+}
+
+.bobi1 {
+  color: grey;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.bobi2 {
+  color: black;
+  font-size: 40px;
+  max-width: 450px;
+}
+
+.bobi3 {
+  color: grey;
+  font-size: 20px;
+  margin-bottom: 20px;
+  max-width: 372px;
+}
+
+.fama {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 100px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.famas {
+  width: 400px;
+}
+
+.fama1 {
+  color: grey;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.fama2 {
+  color: black;
+  font-size: 40px;
+  max-width: 450px;
+}
+
+.fama3 {
+  color: grey;
+  font-size: 20px;
+  margin-bottom: 20px;
+  max-width: 372px;
+}
+
+.taka {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 100px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.ykas {
+  width: 400px;
+}
+
+.yka1 {
+  color: grey;
+  font-size: 20px;
+  max-width: 900px;
+  /* margin-bottom: 20px; */
+}
+
+.yka2 {
+  color: grey;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.taka .padi {
+  position: absolute;
+  top: 5160px;
+  bottom: 0px;
+  right: 0px;
+  left: 800px;
+}
+
+.yka3 {
+  color: black;
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+
+.vasa {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 100px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.dodi {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 100px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
